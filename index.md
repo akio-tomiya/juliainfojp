@@ -5,23 +5,23 @@ PRして情報を追記してください。
 
 # 公式サイト
 
-[Julia](https://julialang.org/)
+- [Julia](https://julialang.org/)
 
 # 年間行事
 
-[JuliaCon Global](https://juliacon.org/)
-[JuliaHEP](https://www.juliahep.org/)
+- [JuliaCon Global](https://juliacon.org/)
+- [JuliaHEP](https://www.juliahep.org/)
 
 # 団体
 
-[Julia GitHub Organizations](https://julialang.org/community/organizations/)
+- [Julia GitHub Organizations一覧](https://julialang.org/community/organizations/)
 
 # ワーキンググループ
-[ワーキンググループ](https://julialang.org/community/working-groups/), HPC系では月に一回のオンラインミーティングあり。
+- [ワーキンググループ](https://julialang.org/community/working-groups/), HPC系では月に一回のオンラインミーティングあり。
 
 # スパコンにいれるためのマニュアル(Admin用)
 
-[Admin: How to provide Julia to users?](https://juliahpc.github.io/sysadmin_julia/)
+- [Admin: How to provide Julia to users?](https://juliahpc.github.io/sysadmin_julia/)
 
 # 日本語の教科書等
 

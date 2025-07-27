@@ -13,9 +13,16 @@ PRして情報を追記してください。
 - [JuliaHEP](https://www.juliahep.org/)
 
 # 日本での国内イベント
+## アカデミック系
+
 - [Julia in Physics 2021 Online](https://akio-tomiya.github.io/julia_in_physics/)
 - [数学と物理におけるJuliaの活用 (2023)](https://akio-tomiya.github.io/julia_imi_workshop2023/)
 - [Julia in Physics 2024](https://ohno.github.io/julia_in_physics_2024/)
+
+## エンジニア系
+- [JuliaTokyo](https://juliatokyo.connpass.com/)
+- [JuliaTokai](https://juliatokai.connpass.com/)
+
 
 
 # 団体

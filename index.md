@@ -15,6 +15,9 @@ PRして情報を追記してください。
 
 [Julia GitHub Organizations](https://julialang.org/community/organizations/)
 
+# ワーキンググループ
+[ワーキンググループ](https://julialang.org/community/working-groups/), HPC系では月に一回のオンラインミーティングあり。
+
 # スパコンにいれるためのマニュアル(Admin用)
 
 [Admin: How to provide Julia to users?](https://juliahpc.github.io/sysadmin_julia/)

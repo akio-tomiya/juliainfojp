@@ -1,4 +1,4 @@
-# このページについて。
+# このページについて
 
 ここはJulia言語の情報をまとめた非公式ページです。
 PRして情報を追記してください。
@@ -10,6 +10,7 @@ PRして情報を追記してください。
 # 年間行事
 
 [JuliaCon Global](https://juliacon.org/)
+[JuliaHEP](https://www.juliahep.org/)
 
 # 団体
 

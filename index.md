@@ -11,6 +11,31 @@ Julia は様々な分野において活用が始まっています。
 
 [なぜ僕らはJuliaを作ったか](https://www.geidai.ac.jp/~marui/julialang/why_we_created_julia/index.html)
 
+## はじめかた
+
+1. **Julia のインストール**
+
+   * ↓ 公式サイトから OS 別インストーラをダウンロード
+2. **ターミナルで `julia` を起動**
+
+   ```julia
+   julia> 1 + 2
+   3
+   ```
+   
+3. **パッケージを試す**
+
+   ```julia
+   julia> using Pkg; Pkg.add("Plots")
+   julia> using Plots; plot(sin, 0, 2π)
+   ```
+   
+4. **VS Code 拡張機能** *Julia* を入れると REPL・Lint・デバッグが快適。
+5. **Pluto.jl** でノートブック環境 → `julia> import Pluto; Pluto.run()`
+6. **GoogleColab/Jupyter** でもJulia が使えます。
+
+> 🔗 もっと詳しく: [Julia Documentation → Getting Started](https://docs.julialang.org/en/v1/manual/getting-started/)
+
 # 公式サイト
 
 - [Julia](https://julialang.org/)

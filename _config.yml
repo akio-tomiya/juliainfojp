@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Julia Info JP
-description: Information of Julia language for Japanese speakers
+description: Julia resources for Japanese speakers

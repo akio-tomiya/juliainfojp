@@ -3,6 +3,14 @@
 ここはJulia言語の情報をまとめた非公式ページです。
 PRして情報を追記してください。
 
+# Juliaとは？
+
+Julia は2018年にバージョン1が公開されたオープンソースの科学技術計算言語で、 
+Fortranの様に高速でかつPythonの様に生産性の高い言語です。
+Julia は様々な分野において活用が始まっています。
+
+[なぜ僕らはJuliaを作ったか](https://www.geidai.ac.jp/~marui/julialang/why_we_created_julia/index.html)
+
 # 公式サイト
 
 - [Julia](https://julialang.org/)

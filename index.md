@@ -94,3 +94,4 @@ Bogumił Kamiński (著), Przemysław Szufel (著), 中田 秀基 (翻訳)](http
 小高 知宏 (著)](https://www.amazon.co.jp/Julia%E3%81%AB%E3%82%88%E3%82%8B%E6%95%B0%E5%80%A4%E8%A8%88%E7%AE%97%E3%81%A8%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E5%B0%8F%E9%AB%98-%E7%9F%A5%E5%AE%8F/dp/427423049X/)
 - [基礎から学ぶJulia ~基本文法からデータサイエンスまで 単行本 – 2021/1/25
 石井 一夫 (著)](http://amazon.co.jp/%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6Julia-%E5%9F%BA%E6%9C%AC%E6%96%87%E6%B3%95%E3%81%8B%E3%82%89%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%81%BE%E3%81%A7-%E7%9F%B3%E4%BA%95-%E4%B8%80%E5%A4%AB/dp/488647022X)
+- [Juliaで作って学ぶベイズ統計学 	2021/11 須山敦志 (著)](https://www.kspub.co.jp/book/detail/5259801.html)

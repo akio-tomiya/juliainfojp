@@ -50,10 +50,10 @@ Julia は様々な分野において活用が始まっています。
 
 - [Julia](https://julialang.org/)
 
-# 年間行事
+# 年間行事(国際)
 
-- [JuliaCon Global](https://juliacon.org/)
-- [JuliaHEP](https://www.juliahep.org/)
+- [JuliaCon Global](https://juliacon.org/)<br>全世界のJuliaユーザーが集う国際研究会
+- [JuliaHEP](https://www.juliahep.org/)<br>高エネルギー物理の全世界のJuliaユーザーの集まり、研究会もある。
 
 # 日本での国内イベント
 ## アカデミック系
@@ -65,8 +65,6 @@ Julia は様々な分野において活用が始まっています。
 ## エンジニア系
 - [JuliaTokyo](https://juliatokyo.connpass.com/)
 - [JuliaTokai](https://juliatokai.connpass.com/)
-
-
 
 # 団体
 

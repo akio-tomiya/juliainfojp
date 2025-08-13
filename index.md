@@ -79,6 +79,7 @@ Julia は様々な分野において活用が始まっています。
 
 # 日本語の教科書等
 
+- [Juliaデータサイエンス ~Juliaを使って自分でゼロから作るデータサイエンス世界の探索~ 2017/10 Anshul Joshi (著), 石井一夫 ほか (翻訳)](http://www.nts-book.co.jp/item/detail/summary/it/20171001_35.html)
 - [1から始める Juliaプログラミング – 2020/3/26 進藤 裕之 (著), 佐藤 建太 (著)](https://www.amazon.co.jp/1%E3%81%8B%E3%82%89%E5%A7%8B%E3%82%81%E3%82%8B-Julia%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E9%80%B2%E8%97%A4-%E8%A3%95%E4%B9%8B/dp/433902905X/)
 - [Juliaではじめる数値計算入門 – 2024/5/13 永井 佑紀 (著)](https://www.amazon.co.jp/Julia%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%95%B0%E5%80%A4%E8%A8%88%E7%AE%97%E5%85%A5%E9%96%80-%E6%B0%B8%E4%BA%95-%E4%BD%91%E7%B4%80/dp/4297141280/)
 - [Juliaプログラミング大全 (ＫＳ情報科学専門書) 佐藤建太 (著)](https://www.amazon.co.jp/%EF%BC%AA%EF%BD%95%EF%BD%8C%EF%BD%89%EF%BD%81%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%A4%A7%E5%85%A8-%EF%BC%AB%EF%BC%B3%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E5%B0%82%E9%96%80%E6%9B%B8-%E4%BD%90%E8%97%A4%E5%BB%BA%E5%A4%AA-ebook/dp/B0CBV3S7K8/)

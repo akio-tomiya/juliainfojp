@@ -84,6 +84,7 @@ Julia は様々な分野において活用が始まっています。
 - [Juliaプログラミング大全 (ＫＳ情報科学専門書) 佐藤建太 (著)](https://www.amazon.co.jp/%EF%BC%AA%EF%BD%95%EF%BD%8C%EF%BD%89%EF%BD%81%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%A4%A7%E5%85%A8-%EF%BC%AB%EF%BC%B3%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E5%B0%82%E9%96%80%E6%9B%B8-%E4%BD%90%E8%97%A4%E5%BB%BA%E5%A4%AA-ebook/dp/B0CBV3S7K8/)
 - [実践Julia入門 後藤 俊介 (著) ](https://www.amazon.co.jp/%E5%AE%9F%E8%B7%B5Julia%E5%85%A5%E9%96%80-%E5%BE%8C%E8%97%A4-%E4%BF%8A%E4%BB%8B-ebook/dp/B0BVZ647JD/)
 - [1週間で学べる！Julia数値計算プログラミング (ＫＳ情報科学専門書) 永井佑紀 (著) ](https://www.amazon.co.jp/%EF%BC%91%E9%80%B1%E9%96%93%E3%81%A7%E5%AD%A6%E3%81%B9%E3%82%8B%EF%BC%81-%EF%BC%AA%EF%BD%95%EF%BD%8C%EF%BD%89%EF%BD%81%E6%95%B0%E5%80%A4%E8%A8%88%E7%AE%97%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%EF%BC%AB%EF%BC%B3%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E5%B0%82%E9%96%80%E6%9B%B8-%E6%B0%B8%E4%BA%95%E4%BD%91%E7%B4%80-ebook/dp/B0B56Q8RZ1/)
+- [最適化アルゴリズム - 2022/12/23 Mykel J. Kochenderfer, Tim A. Wheeler (著) 岸本祥吾 ほか (翻訳)](https://www.kyoritsu-pub.co.jp/book/b10024250.html)
 - [Juliaによる数理最適化 単行本 – 2023/4/12
 小林 和博 (著)](https://www.amazon.co.jp/Julia%E3%81%AB%E3%82%88%E3%82%8B%E6%95%B0%E7%90%86%E6%9C%80%E9%81%A9%E5%8C%96-%E5%B0%8F%E6%9E%97-%E5%92%8C%E5%8D%9A/dp/4339029343/)
 - [Juliaプログラミングクックブック ―言語仕様からデータ分析、機械学習、数値計算まで 単行本（ソフトカバー） – 2019/10/19

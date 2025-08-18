@@ -50,6 +50,11 @@ Julia は様々な分野において活用が始まっています。
 
 - [Julia](https://julialang.org/)
 
+# マニュアル
+
+- [公式ドキュメント](https://docs.julialang.org/en/v1/)
+- [日本語翻訳(非公式)](https://atelierarith.github.io/UnofficialJuliaDoc-ja/)
+
 # 年間行事(国際)
 
 - [JuliaCon Global](https://juliacon.org/)<br>全世界のJuliaユーザーが集う国際研究会

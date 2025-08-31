@@ -73,9 +73,11 @@ Julia は様々な分野において活用が始まっています。
 # ワーキンググループ
 - [ワーキンググループ](https://julialang.org/community/working-groups/), HPC系では月に一回のオンラインミーティングあり。
 
-# スパコンにいれるためのマニュアル(Admin用)
+# スパコンにいれるためのマニュアル
 
 - [Admin: How to provide Julia to users?](https://juliahpc.github.io/sysadmin_julia/)
+
+- [スパコンでjuliaを動かす](https://kenta-yoshimura.hatenablog.com/entry/2025/08/02/232553)
 
 # 日本語の教科書等
 
